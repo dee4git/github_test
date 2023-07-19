@@ -1,5 +1,5 @@
 # Person 1 is now writing
-
+# Person 2 is now writing
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
